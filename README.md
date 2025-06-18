@@ -4,7 +4,7 @@ Business Management and Analysis tool using C (2nd semester project)
 
 **Description:** This is a simple Business Management Tool made using basic C language which uses functions and data types like structures to create a simple systwm which can add/remove customers, keep list of product inventory, calculate overall profit/loss of the business based on inventory and customer purchases and even provide an overall graph of monthly profits in C itself.
 
-How to run this program: Download the .c file and run it with gcc compiler or visual studio code on windows os with mingw installed 
+How to run this program: Download the Business Management and Analysis Tool.c file (Sample.c is a previous version of the file) and run it with gcc compiler or visual studio code on windows os with mingw installed 
 
 **How to use the Program:**
 running the code will show this window
